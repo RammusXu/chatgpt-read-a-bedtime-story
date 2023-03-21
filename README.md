@@ -1,6 +1,9 @@
 # chatgpt-read-a-bedtime-story
 讓 Siri 變聰明，透過 Open AI (ChatGPT)講故事給小孩
 
+# 實際操作影片
+https://www.instagram.com/reel/CqDmYZIp_Fj/
+
 # 步驟
 1. 登入 Open AI
 https://auth0.openai.com/u/login/
