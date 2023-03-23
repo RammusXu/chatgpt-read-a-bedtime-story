@@ -6,11 +6,9 @@ https://www.instagram.com/reel/CqDmYZIp_Fj/
 
 # 步驟
 1. 登入 Open AI
-https://auth0.openai.com/u/login/
-![](img/1.PNG)
+https://platform.openai.com/account/api-keys
 
 2. 產生 API KEY
-https://platform.openai.com/account/api-keys
 ![](img/2.jpg)
 ![](img/3.jpg)
 
